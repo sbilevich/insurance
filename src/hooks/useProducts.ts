@@ -5,7 +5,7 @@ export const useProducts = (): Product[] => {
   const [products, setProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    fetch("/data/devices.json")
+    fetch(process.env.PUBLIC_URL + "/data/devices.json")
       .then((response) => response.json())
       .then((data) => setProducts(data.devices));
   }, []);
