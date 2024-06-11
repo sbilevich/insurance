@@ -1,0 +1,104 @@
+{
+    "devices": [
+      {
+        "id": "1",
+        "label": "Oppo Find N3",
+        "value": "oppo_find_n3-12205"
+      },
+      {
+        "id": "2",
+        "label": "Samsung Galaxy S21",
+        "value": "samsung_galaxy_s21-12206"
+      },
+      {
+        "id": "3",
+        "label": "iPhone 12 Pro",
+        "value": "iphone_12_pro-12207"
+      },
+      {
+        "id": "4",
+        "label": "Google Pixel 5",
+        "value": "google_pixel_5-12208"
+      },
+      {
+        "id": "5",
+        "label": "OnePlus 9",
+        "value": "oneplus_9-12209"
+      },
+      {
+        "id": "6",
+        "label": "Xiaomi Mi 11",
+        "value": "xiaomi_mi_11-12210"
+      },
+      {
+        "id": "7",
+        "label": "Sony Xperia 1 III",
+        "value": "sony_xperia_1_iii-12211"
+      },
+      {
+        "id": "8",
+        "label": "Huawei P40 Pro",
+        "value": "huawei_p40_pro-12212"
+      },
+      {
+        "id": "9",
+        "label": "LG V60 ThinQ",
+        "value": "lg_v60_thinq-12213"
+      },
+      {
+        "id": "10",
+        "label": "Motorola Edge+",
+        "value": "motorola_edge_plus-12214"
+      },
+      {
+        "id": "11",
+        "label": "Asus ROG Phone 5",
+        "value": "asus_rog_phone_5-12215"
+      },
+      {
+        "id": "12",
+        "label": "Nokia 8.3 5G",
+        "value": "nokia_8_3_5g-12216"
+      },
+      {
+        "id": "13",
+        "label": "Realme GT",
+        "value": "realme_gt-12217"
+      },
+      {
+        "id": "14",
+        "label": "Lenovo Legion Phone Duel 2",
+        "value": "lenovo_legion_phone_duel_2-12218"
+      },
+      {
+        "id": "15",
+        "label": "ZTE Axon 30 Ultra",
+        "value": "zte_axon_30_ultra-12219"
+      },
+      {
+        "id": "16",
+        "label": "BlackBerry KEY2",
+        "value": "blackberry_key2-12220"
+      },
+      {
+        "id": "17",
+        "label": "HTC U12+",
+        "value": "htc_u12_plus-12221"
+      },
+      {
+        "id": "18",
+        "label": "Vivo X60 Pro+",
+        "value": "vivo_x60_pro_plus-12222"
+      },
+      {
+        "id": "19",
+        "label": "Redmi Note 10 Pro",
+        "value": "redmi_note_10_pro-12223"
+      },
+      {
+        "id": "20",
+        "label": "Oppo Reno5 Pro 5G",
+        "value": "oppo_reno5_pro_5g-12224"
+      }
+    ]
+}

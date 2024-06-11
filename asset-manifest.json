@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insurance/static/css/main.e6c13ad2.css",
+    "main.js": "/insurance/static/js/main.e2571035.js",
+    "static/js/453.5636f15b.chunk.js": "/insurance/static/js/453.5636f15b.chunk.js",
+    "index.html": "/insurance/index.html",
+    "main.e6c13ad2.css.map": "/insurance/static/css/main.e6c13ad2.css.map",
+    "main.e2571035.js.map": "/insurance/static/js/main.e2571035.js.map",
+    "453.5636f15b.chunk.js.map": "/insurance/static/js/453.5636f15b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e2571035.js"
+  ]
+}
