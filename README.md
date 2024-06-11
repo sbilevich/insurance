@@ -1,6 +1,6 @@
 # About this project
 
-This project aimed to view, add, edit and delete insurances for devices. You can view this project [[https://sbilevich.github.io/insurance/](https://sbilevich.github.io/insurance/).
+This project aimed to view, add, edit and delete insurances for devices. You can view this project [https://sbilevich.github.io/insurance/](https://sbilevich.github.io/insurance/).
 
 ## Run project locally
 
